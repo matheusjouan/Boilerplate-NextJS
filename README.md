@@ -14,6 +14,6 @@
 
 Dentro da pasta que você deseja iniciar um projeto React com a estrutura pré configurada, podemos executar o comando:
 ```
- $yarn create next-app -e https://github.com/matheusjouan/Boilerplate-NextJS.git
+ $yarn create next-app -e https://github.com/matheusjouan/Boilerplate-NextJS
 ```
 
