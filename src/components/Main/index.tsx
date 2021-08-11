@@ -1,3 +1,5 @@
+// Componente Main (Example)
+
 import * as S from './styles';
 
 interface MainProps {

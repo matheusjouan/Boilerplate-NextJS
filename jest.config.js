@@ -21,5 +21,5 @@ module.exports = {
 
   // Teste cobertura p/ verificar se esta cobrindo toda aplicação
   collectCoverage: true,
-  collectCoverageFrom: ['src/**/*.ts(x)'],
+  collectCoverageFrom: ['src/**/*.ts(x)', '!src/**/stories.tsx'],
 };
