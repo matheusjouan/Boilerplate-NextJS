@@ -1,4 +1,4 @@
-// Componente Main (Example)
+// Example
 
 import * as S from './styles';
 
