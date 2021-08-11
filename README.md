@@ -8,7 +8,8 @@
  - Next PWA
  - JEST e Testing Library React
  - Styled Components
- - Storybook (with Essentials Addson)   
+ - Storybook (with Essentials Addson)
+ - PLOPJS
 
 ## Getting Started
 
